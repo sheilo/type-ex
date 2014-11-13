@@ -18,6 +18,16 @@ p{
 	color: #EBC5B9;
 }
 
+img{
+	width: 100%;
+	margin: 50px;
+}
+
+.help{
+	width: 50%;
+	margin: 0;
+}
+
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
